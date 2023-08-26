@@ -1,15 +1,10 @@
 <h1 align='center'> Hi,I'm Shimaa Reda 👋 </h1>
 
 <div>
-  <div align="right">
-    <img  src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="30%" />
-  </div>
-  <div align="left">
-    <p>🏫 I am a Fresh Graduate from the Faculty of Computer Science and Artificial Intelligence.</p>
-    <p>🌱 I’m currently open For a new job opportunity to utilize extensive knowledge in web development.</p>
-    <p>💻 I’m currently Training as a backend Developer in R.B Marketing Agency.</p>
-  </div>
-  
+  <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="30%"/> 
+  <p>🏫 I am a Fresh Graduate from the Faculty of Computer Science and Artificial Intelligence.</p>
+  <p>🌱 I’m currently open For a new job opportunity to utilize extensive knowledge in web development.</p>
+  <p>💻 I’m currently Training as a backend Developer in R.B Marketing Agency.</p>  
 </div>
 
 <h5>Web Development</h5>
