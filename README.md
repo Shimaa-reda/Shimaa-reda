@@ -2,10 +2,8 @@
 
 <div>
   <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="30%"/> 
-  <h4>🏫 I am a Fresh Graduate from the Faculty of `Computer Science and Artificial Intelligence Cairo University`.</h4>
-  <h4>🌱 I’m currently open For a new job opportunity to utilize extensive knowledge in web development.</h4>
-  I’m currently open for new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1HyP3E7MsGhheuTH-s1LKYGext9Exa17M/view?usp=sharing).
-  - :thinking: I’m currently open for: new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1HyP3E7MsGhheuTH-s1LKYGext9Exa17M/view?usp=sharing).
+  <h4>🏫 I am a Fresh Graduate from the Faculty of Computer Science and Artificial Intelligence Cairo University.</h4>
+  <h4>🌱 I’m currently open For a new job opportunity to utilize extensive knowledge in web development, this is <a href="https://drive.google.com/file/d/1UYRPjiAWqd8p-L0acVgCyvOKpBhBZgz5/view?usp=sharing"></a>.</h4>
   <h4>💻 I’m currently Training as a backend Developer in R.B Marketing Agency.</h4>  
 </div>
 
