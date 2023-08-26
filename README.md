@@ -7,6 +7,9 @@
   <h4>💻 I’m currently Training as a backend Developer in R.B Marketing Agency.</h4>  
 </div>
 
+
+<h4>🔧 Languages & Tools</h4>
+
 <h5>Web Development</h5>
 
 <h6>Languages</h6>
@@ -28,8 +31,7 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 
-<!-- 
-<h4>🔧 Languages & Tools</h4> -->
+
 
 ![](https://github-readme-stats.vercel.app/api?username=Shimaa-reda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shimaa-reda&theme=dark&hide_border=false)
