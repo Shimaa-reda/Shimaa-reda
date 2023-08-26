@@ -11,6 +11,8 @@
     <a href="https://www.linkedin.com/in/shimaa-reda-74102a206/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
+<h4>🏫 I am a Fresh Graduate from the Faculty of Computer Science and Artificial Intelligence.</h4>
+<h4>🌱 I’m currently open For a new job opportunity to utilize extensive knowledge in web development.</h4>
 <h4>💻 I’m currently Training as a backend Developer in R.B Marketing Agency.</h4>
 
 <h5>Web Development</h5>
