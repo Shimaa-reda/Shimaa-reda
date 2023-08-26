@@ -1,5 +1,6 @@
-                                                      # 💫 Hi there 👋, I'm Shimaa Reda
+  # 💫 Hi there 👋, I'm Shimaa Reda
 🏫 I am a Fresh Graduate from the Faculty of Computer science and artificial intelligence.
+
 🌱 I’m currently open For a new job opportunity to utilize extensive knowledge in web development.
 
 
