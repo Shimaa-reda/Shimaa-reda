@@ -1,6 +1,6 @@
 # Hi I'm Shimaa Reda 
 🏫 I am a Fresh Graduate from the Faculty of Computer science and artificial intelligence.                          
-🌱 I’m currently open For a new job opportunity to utilize extensive knowledge in web development.
+🌱 I’m currently open For a new job opportunity to utilize extensive knowledge in web development.                                  
 💻 I’m currently Training as a backend Developer in  R.B Marketing Agency.
 
 ## 
