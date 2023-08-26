@@ -5,6 +5,10 @@
   <h4>🏫 I am a Fresh Graduate from the Faculty of Computer Science and Artificial Intelligence Cairo University.</h4>
   <h4>🌱 I’m currently open For a new job opportunity to utilize extensive knowledge in web development, this is <a href="https://drive.google.com/file/d/1UYRPjiAWqd8p-L0acVgCyvOKpBhBZgz5/view?usp=sharing">My Resume</a>.</h4>
   <h4>💻 I’m currently Training as a backend Developer in R.B Marketing Agency.</h4>  
+  <p>
+    <a href="https://www.linkedin.com/in/shimaa-reda-74102a206/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
 </div>
 
 
